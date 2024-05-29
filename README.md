@@ -7,7 +7,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/Jitham_Movies">
-    <img src="https://forthebadge.com?primaryBGColor=%2331C4F3&primaryTextColor=%23FFFFFF&secondaryBGColor=%23389AD5&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=Jitham&secondaryLabel=Movies&tertiaryLabel=&panels=2#/generator" width="250">
+    <img src="" width="250">
   </a><br>
   <a href="https://t.me/Akku_Bot_Official">
     &nbsp;<img src="https://img.shields.io/badge/Akku_Bot_Official-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
