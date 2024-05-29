@@ -13,7 +13,7 @@
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <a href="https://t.me/Jitham_Movies">
-    &nbsp;<img src="https://img.shields.io/badge/Jitham%20%F0%9D%95%8F%20Movies-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/Jitham_Movies-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
   <a href="https://github.com/https://railway.app/new/template/1jKLr4/stargazers">
