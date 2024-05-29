@@ -7,7 +7,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/Jitham_Movies">
-    <img src="" width="250">
+    <img src="https://github.com/Rajasekar118/AKKU-FILE-SHARING-BOT/blob/main/jitham-movies%20(1).svg" width="250">
   </a><br>
   <a href="https://t.me/Akku_Bot_Official">
     &nbsp;<img src="https://img.shields.io/badge/Akku_Bot_Official-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
