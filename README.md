@@ -6,21 +6,21 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/CodeXBotz">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
+  <a href="https://t.me/Jitham_Movies">
+    <img src="https://github.com/Rajasekar118/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/CodeXBotz">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+  <a href="https://t.me/Akku_Bot_Official">
+    &nbsp;<img src="https://img.shields.io/badge/Akku_Bot_Official-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <a href="https://t.me/Jitham_Movies">
     &nbsp;<img src="https://img.shields.io/badge/Jitham_Movies-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
   <a href="https://github.com/https://railway.app/new/template/1jKLr4/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/Rajasekar118/AKKU-FILE-SHARING-BOT?style=social">
   </a>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
-    <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
+  <a href="https://github.com/Rajasekar118/AKKU-FILE-SHARING-BOT/fork">
+    <img src="https://img.shields.io/github/forks/Rajasekar118/AKKU-FILE-SHARING-BOT?label=Fork&style=social">
   </a>  
 </p>
 
