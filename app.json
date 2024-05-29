@@ -52,7 +52,7 @@
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
       "value": "1416757994",
-      "required": True
+      "required": false
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
